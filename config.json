@@ -79,6 +79,20 @@
       "description": "Automatize a organização de arquivos por extensão usando funções e bibliotecas padrão do Python.",
       "path": "assignments/python-file-automation",
       "dueDate": "2026-11-11"
+    },
+    {
+      "id": "consumo-apis-externas-resiliente",
+      "title": "Consumo Resiliente de APIs Externas",
+      "description": "Consuma APIs publicas com retry, backoff, tratamento de erros e consolidacao de dados.",
+      "path": "assignments/consumo-apis-externas-resiliente",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
