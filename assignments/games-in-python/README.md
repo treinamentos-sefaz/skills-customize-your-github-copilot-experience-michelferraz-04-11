@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Hangman Game
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Build a classic Hangman game in Python using strings, loops, conditionals, and user input. By the end of this assignment, students should be able to manage game state and control flow in an interactive console program.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implement the Core Hangman Loop
 
