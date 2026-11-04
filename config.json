@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-automation",
+      "title": "Automatizando arquivos com Python",
+      "description": "Automatize a organização de arquivos por extensão usando funções e bibliotecas padrão do Python.",
+      "path": "assignments/python-file-automation",
+      "dueDate": "2026-11-11"
     }
   ]
 }
